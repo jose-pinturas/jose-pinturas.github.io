@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: /about/
 image: 01.jpg
 ---
