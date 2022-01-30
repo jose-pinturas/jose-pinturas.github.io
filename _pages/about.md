@@ -9,7 +9,7 @@ Mi nombre Jose Benavides, soy Pintor desde hace más de 20 años
 
 ***
 
-#####  APTITUDES
+##  APTITUDES
 * Pintura
 * Peón de albañilería
 * Obra blanca
@@ -17,24 +17,21 @@ Mi nombre Jose Benavides, soy Pintor desde hace más de 20 años
 * Reparación de grietas y agujeros
 * Raspado, lijado y pulido de paredes
 
-#####  EXPERIENCIA 
+##  EXPERIENCIA 
 
-#### Juan José Garzón Lopez, (Autónomo) Granada
-### Pintura y Acristalamiento
-<small>2004-2020 (16 años)</small>
-<small>Contacto: 629489136</small>
+### Juan José Garzón Lopez, (Autónomo) Granada
+<small>2004-2020 (16 años)</small> - <small>Contacto: 629489136</small>
 
+#### Actividad - Pintura y Acristalamiento
 Pintura de comunidades, carpintería metálica, como subcontratistas decoración de ascensores para la empresas OTIS y SCHINDLER.
 
 #### Felipe Diaz Silva, (Autónomo) Granada
-### Albañil
-<small>2020-2021 (1 año)</small>
-<small>Contacto: 667669927</small>
+<small>2020-2021 (1 año)</small> - <small>Contacto: 667669927</small>
 
+### Actividad - Albañil
 Pintor de obra, alisado y terminado de obra blanca.
 
-#### FORMACIÓN/CURSOS
-<small>1995 - 2000</small>
+## FORMACIÓN/CURSOS
 
 ### Prevensur, Granada: PRL para Instalaciones montajes, estructuras metálicas, cerrajería y carpintería metálica
 <small>11 FEBRERO DEL 2021</small>
