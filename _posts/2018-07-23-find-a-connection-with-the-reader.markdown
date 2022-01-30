@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  Find a connection with the reader
-date:   2018-07-24 15:01:35 +0300
+title:  Pintura en liso y reparación de grietas
+date:   2021-11-24 15:01:35 +0300
 image:  02.jpg
-tags:   Resources
+tags:   Pintura
 ---
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
-
-You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
+Trabajo en hogar, encargado de la reparación de grietas, pintura de 3 habitaciones, cocina y salon.
 
 ## Are you crazy? I can't swallow that.
 
