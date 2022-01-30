@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-title: Jose Pinturas
+title: José Pinturas
 logo: logo.svg # You can add own logo.
 description: Zolan is modern minimal theme for Jekyll
 
@@ -8,9 +8,9 @@ description: Zolan is modern minimal theme for Jekyll
 #-------------------------------
 # Author Settings
 author:
-  name: Jose Benavides
+  name: José Benavides
   image: 01.jpg
-  say-hello: Hola, Soy <strong>Jose Benavides</strong>
+  say-hello: Hola, Soy <strong>José Benavides</strong>
   bio: Soy un pintor de Granada, España. Con más de 20 años de experiencia.
 
 
@@ -31,7 +31,7 @@ disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: jose_pinturas # Add instagram username
 
 
 #-------------------------------
