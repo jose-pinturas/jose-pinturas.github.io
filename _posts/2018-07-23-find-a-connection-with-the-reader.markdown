@@ -25,4 +25,6 @@ Trabajo realizado en dos fines de semana.
 
 ![]({{ site.baseurl }}/images/00_6.jpg)
 
-*Pintura en liso*
+### Baño
+
+![]({{ site.baseurl }}/images/00_7.jpg)
