@@ -12,12 +12,15 @@ Mi nombre Jose Benavides, soy Pintor desde hace más de 20 años
 ***
 
 ##  APTITUDES
-* Pintura
+* Pintura exterior e interior
 * Peón de albañilería
 * Obra blanca
 * Decoración
-* Reparación de grietas y agujeros
+* Alizado
+* Gota
 * Raspado, lijado y pulido de paredes
+* Barnizado
+* Hierros
 
 ##  EXPERIENCIA 
 
