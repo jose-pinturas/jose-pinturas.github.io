@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Pintura fachada y patio
+title:  Pintura de fachada y patio
 date:   2021-07-19 15:01:35 +0300
 image:  01_2.jpg
 tags:   Pintura, patio, fachada, liso

@@ -5,6 +5,8 @@ permalink: /about/
 image: 01.jpg
 ---
 
+![]({{ site.baseurl }}/images/CV.jpg)
+
 Mi nombre Jose Benavides, soy Pintor desde hace más de 20 años
 
 ***
