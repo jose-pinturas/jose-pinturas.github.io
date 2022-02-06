@@ -3,7 +3,7 @@ layout: post
 title:  Pintura fachada y patio
 date:   2021-07-19 15:01:35 +0300
 image:  01_2.jpg
-tags:   Style
+tags:   Pintura, patio, fachada, liso
 ---
 Trabajo realizado en dos fines de semana, pintando una fachada y un patio.
 
