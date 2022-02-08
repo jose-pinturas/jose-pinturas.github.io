@@ -18,7 +18,6 @@ Mi nombre Jose Benavides, soy Pintor desde hace más de 20 años
 * Decoración
 * Alizado
 * Gota
-* Raspado, lijado y pulido de paredes
 * Barnizado
 * Hierros
 
